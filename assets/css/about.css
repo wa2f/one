@@ -1,0 +1,88 @@
+.consultancy{
+    width: 50%;
+    margin-left: 10%;
+}
+.links_about{
+    width: 50%;
+    padding-left: 30%;
+    margin-right: 10%;
+}
+.nav-link{
+    color: #5a6268;
+}
+.banner{
+    background-image: url("../images/sarah-dorweiler-x2Tmfd1-SgA-unsplash.jpg");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner_text{
+    text-align: center;
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.learnmore_btn{
+    margin-top: 30px;
+    background-color: #ff147a;
+    height: 30px;
+    border-radius: 5px;
+    border: unset;
+}
+.card{
+    border-radius: 20px;
+}
+.cards_section{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+.card_one{
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.card_two{
+margin-right: 5%;
+}
+.card_three{
+margin-right: 10%;
+}
+.card-body{
+    text-align: center;
+}
+.centered{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.cardone_btn{
+    height: 60px;
+    text-align: center;
+    background-color: #c4c3c3;
+}
+.card{
+    width: 20%;
+}
+.copyright{
+    padding-top: 10px;
+    text-align: center;
+}
+.contactus_btn{
+    border: unset;
+    background-color: deeppink;
+    height: 35px;
+}
+.cardone_btn button{
+    margin-top: 20px;
+    border: 1.5px solid deeppink;
+    border-radius: 10px;
+    color: deeppink;
+}
+.jumbotron{
+    text-align: center;
+}

@@ -1,0 +1,87 @@
+.helder_section{
+}
+.bg-dark{
+    color: white;
+}
+.bg-dark:hover{
+    color: white;
+}
+.ker{
+    color: yellowgreen;
+}
+.helder_right{
+}
+.home_benner {
+    background-image: url("../images/tezos-y8wjQZ9XP4A-unsplash.jpg");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 50px;
+}
+.baker{
+    padding-left: 40px;
+    width: 50%;
+}
+.center{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.center h1{
+    padding-top: 50px;
+    font-family: "Rasa SemiBold";
+    font-size: 30px;
+}
+.center h2{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.center p{
+    padding-bottom: 50px;
+}
+
+.index_download{
+    display: flex;
+    text-align: center;
+    align-self: center;
+    margin-left: 30%;
+
+}
+.index_btndownload{
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border: unset;
+    height: auto;
+    margin-right: 30px;
+}
+.index_btnlearnmore{
+    background: unset;
+    border-radius: 50px;
+    border: 3px solid orange;
+    padding: 10px;
+    height: auto;
+}
+.nav-link{
+    color: white;
+}
+
+.container{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cardd{
+    text-align: center;
+}
+.cardd img{
+    height: 60px;
+    width: 60px;
+    align-self: center;
+    border-radius: 100%;
+}
+.card-body{
+    text-align: center;
+}

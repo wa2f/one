@@ -1,0 +1,107 @@
+.login_background{
+    background-image: url("../images/susan-wilkinson-VBiP5sZl8ZI-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.login_form{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 30%;
+    background: unset;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.input{
+    width: 100%;
+    height: 50px;
+    background-color: #ffffff;
+    opacity: 0.7;
+
+}
+.usernamelogin_input{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.passwordlogin_input{
+    margin-top: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.login_submit_btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    border: unset;
+    width: 100%;
+    height: 50px;
+    background-color: #3d3d3d;
+}
+.login_links{
+    text-decoration: none;
+    color: white;
+}
+.logo_login{
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.signup{
+
+}
+.login_social{
+    border: unset;
+    height: auto;
+    text-align: left;
+
+}
+.forgot_links_login{
+    margin-bottom: 20px;
+    display: flex;
+}
+.forgot{
+    margin-right: 50px;
+}
+.facebook_google{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+}
+.facebook{
+    background-color: cornflowerblue;
+    color: white;
+    width: 45%;
+    margin-right: 5%;
+}
+.google{
+    background-color: darkred;
+    color: white;
+    width: 45%;
+}
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+    font-size: 30px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    color: blue;
+    background-color: white;
+    border-radius: 10px;
+}

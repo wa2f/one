@@ -1,0 +1,62 @@
+.welcome{
+    width: 50%;
+    text-align: center;
+    color: white;
+
+}
+.text{
+    background-image: url("../images/sarah-dorweiler-x2Tmfd1-SgA-unsplash.jpg");
+    background-color: lightseagreen;
+    background-size: cover;
+    margin-left: 20%;
+    padding-bottom: 100%;
+    padding-top: 20%;
+}
+.text h1{
+    padding-bottom: 50px;
+}
+.signuphomediv{
+    display: flex;
+    height: auto;
+}
+.form{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    color: black;
+    text-align: center;
+
+}
+.welcome_btn{
+    border-radius: 50px;
+    height: 50px;
+    width: 60%;
+    border: 2px solid white;
+    background: unset;
+    color: white;
+    margin-top: 50px;
+}
+.welcome_backtext{
+    font-size: 40px;
+}
+.signupinput{
+    height: 40px;
+    border: unset;
+    color: black;
+    margin-top: 30px;
+    padding-left: 20px;
+    background-color: #fff3cd;
+    width: 100%;
+}
+
+.signuppage_signupbtn{
+    border: unset;
+    font-size: 20px;
+    height: 50px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50px;
+    margin-top: 30px;
+    width: 60%;
+}
