@@ -57,6 +57,23 @@
     color: white;
     background-color: lightseagreen;
     border-radius: 50px;
-    margin-top: 30px;
+    margin-top: 50px;
     width: 60%;
 }
+/* Style all font awesome icons */
+.fa {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    border: 1.5px solid black;
+    border-radius: 100%;
+}
+
+
+
+/* Set a specific color for each brand */
+
